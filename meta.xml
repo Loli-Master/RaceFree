@@ -1,5 +1,5 @@
 <meta>
-	<info author="AceXpert/ilham" version="0.0.1" type="script" name="freeroamrace" description="Free Roam Race" />
+	<info author="AceXpert/ilham" version="0.1" type="script" name="freeroamrace" description="Free Roam Race" />
 
 	<script src="server/racefree.lua" type="server"/>
 	<script src="server/fun_s.lua" type="server"/>
