@@ -1,0 +1,14 @@
+<meta>
+	<info author="AceXpert/ilham" version="0.0.1" type="script" name="freeroamrace" description="Free Roam Race" />
+
+	<script src="server/racefree.lua" type="server"/>
+	<script src="server/fun_s.lua" type="server"/>
+
+	<script src="client/client.lua" type="client"/>
+	<script src="client/gui.lua" type="client"/>
+	<script src="client/fun_c.lua" type="client"/>
+
+	<file src="sound/mission_accomplished.mp3"/>
+
+	<min_mta_version server="1.3.3" client="1.3.3" />
+</meta>
